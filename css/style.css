@@ -20,3 +20,18 @@
 .outputValue {
   width: 300px;
 }
+
+
+#graphic-count {
+  position: absolute;
+  top: 113px;
+  transform: rotate(90deg);
+  transform-origin: 0px 15px;
+}
+
+#graphic-power {
+  position: absolute;
+  top: 400px;
+  padding-left: 360px;
+  transform-origin: 0px 15px;
+}
